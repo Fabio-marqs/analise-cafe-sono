@@ -1,4 +1,3 @@
-```markdown
 # Análise de Sono, Estresse e Consumo de Cafeína  
 Classificação da Qualidade do Sono com Modelos Preditivos
 
@@ -18,7 +17,7 @@ A etapa final constrói modelos de classificação para prever **Sleep_Quality**
 7. Salvamento do dataset final processado e do melhor modelo.  
 
 ## Estrutura do Projeto
-```
+
 
 📂 projeto_cafe_sono/
 │── dados/
@@ -29,7 +28,6 @@ A etapa final constrói modelos de classificação para prever **Sleep_Quality**
 │── analise_cafe_sono.ipynb
 │── README.md
 
-````
 
 ## Principais Bibliotecas Necessárias
 
@@ -52,5 +50,3 @@ O modelo está salvo para uso posterior em sistemas de recomendação, dashboard
 Os padrões identificados permitem criar ações estratégicas para empresas do setor de café.
 Os modelos preditivos ajudam a segmentar comportamentos e orientar campanhas informativas, mantendo vendas e reduzindo danos associados ao consumo excessivo de cafeína.
 
-```
-```
