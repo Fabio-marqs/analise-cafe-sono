@@ -20,12 +20,19 @@ A etapa final constrói modelos de classificação para prever **Sleep_Quality**
 
 
 📂 projeto_cafe_sono/
+
 │── dados/
+
 │     ├── dataset_original.csv
+
 │     └── dataset_final.csv
+
 │── models/
+
 │     └── modelo_random_forest.pkl
+
 │── analise_cafe_sono.ipynb
+
 │── README.md
 
 
